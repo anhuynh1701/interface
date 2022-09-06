@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--suppress AndroidUnknownAttribute -->
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -26,7 +25,6 @@
     <TextView
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:layout_alignParentStar="true"
         android:text="Huỳnh Văn An 2050531200363"
         android:textColor="#ffffff"
         android:textSize="20sp"
